@@ -1,0 +1,8 @@
+﻿  main.cc
+d:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Assignment1_edge_detection.vcxproj -> C:\Users\Admin\documents\visual studio 2015\Projects\GettingStart\Assignment1_edge_detection\x64\Debug\Assignment1_edge_detection.exe
+  Assignment1_edge_detection.vcxproj -> C:\Users\Admin\documents\visual studio 2015\Projects\GettingStart\Assignment1_edge_detection\x64\Debug\Assignment1_edge_detection.pdb (Full PDB)
